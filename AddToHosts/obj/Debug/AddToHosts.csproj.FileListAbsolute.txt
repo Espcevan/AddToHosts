@@ -1,0 +1,7 @@
+c:\users\jbob\documents\visual studio 2015\Projects\AddToHosts\AddToHosts\bin\Debug\AddToHosts.exe.config
+c:\users\jbob\documents\visual studio 2015\Projects\AddToHosts\AddToHosts\bin\Debug\AddToHosts.exe
+c:\users\jbob\documents\visual studio 2015\Projects\AddToHosts\AddToHosts\bin\Debug\AddToHosts.pdb
+c:\users\jbob\documents\visual studio 2015\Projects\AddToHosts\AddToHosts\obj\Debug\AddToHosts.csprojResolveAssemblyReference.cache
+c:\users\jbob\documents\visual studio 2015\Projects\AddToHosts\AddToHosts\obj\Debug\AddToHosts.exe
+c:\users\jbob\documents\visual studio 2015\Projects\AddToHosts\AddToHosts\obj\Debug\AddToHosts.pdb
+c:\users\jbob\documents\visual studio 2015\Projects\AddToHosts\AddToHosts\obj\Debug\AddToHosts.TrustInfo.xml
